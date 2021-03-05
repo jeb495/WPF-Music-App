@@ -8,3 +8,4 @@ A Simple Music App Made With C#
     
 #### Please Note: 
     This is a proof of concept and is not intended for everyday use
+![Capture](https://user-images.githubusercontent.com/54542639/110078064-03313b80-7d3c-11eb-9ff3-78a89ba927fe.PNG)
