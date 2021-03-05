@@ -1,4 +1,4 @@
-# :satellite: WPF Music App
+# :headphones: WPF Music App
 A Simple Music App Made With C#
 
 
