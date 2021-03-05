@@ -27,6 +27,7 @@ namespace MusicApp
         }
 
         #region METHOD DECLARATION & ARRAY DECLARATION
+        
         MediaPlayer player = new MediaPlayer();
 
         OpenFileDialog fileDialog = new OpenFileDialog()
@@ -35,10 +36,13 @@ namespace MusicApp
             DefaultExt = ".mp3"
 
         };
+        
         string[] musicQueue = new string[] { "", ""};
+        
         #endregion
 
         #region BUTTONS
+        
         private void Button_Click_Open(object sender, RoutedEventArgs e)
         {
 
